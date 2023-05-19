@@ -33,7 +33,12 @@ ai for the link length. Once I’ve obtained them, I can just plug them in to th
 
 ### PROCEDURE:
 
+STEP 1: Open Robo Analyser.
 
+![image](https://github.com/Dhanush12022004/Forward-kinematics-using-robot-analyzer/assets/128135558/c25a538d-b9e6-4a99-8c0a-9227107c2ce7)
+
+STEP 2:
+Set DOF(Degree Of Freedom) as 6. 
 
 
 
