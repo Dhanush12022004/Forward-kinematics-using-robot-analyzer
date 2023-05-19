@@ -40,7 +40,7 @@ ai for the link length. Once I’ve obtained them, I can just plug them in to th
 
 ### SIMULATION 
  
- ![image](https://github.com/Dhanush12022004/Forward-kinematics-using-robot-analyzer/assets/128135558/7811751a-8ab8-4dee-a3d5-d521493aa7d7)
+![image](https://github.com/Dhanush12022004/Forward-kinematics-using-robot-analyzer/assets/128135558/4276d8a8-6be6-4f2e-99f7-cf917eef7f4b)
 
  
  
@@ -49,21 +49,35 @@ ai for the link length. Once I’ve obtained them, I can just plug them in to th
  
  ### PLOT 
  LINKS:
- ![image](https://github.com/Dhanush12022004/Forward-kinematics-using-robot-analyzer/assets/128135558/882d9f93-98ab-438c-823f-ac1b326d8561)
+ 
+ LINK 1:
+ 
+ ![image](https://github.com/Dhanush12022004/Forward-kinematics-using-robot-analyzer/assets/128135558/b425a8b4-ae84-4703-909a-11e837947e35)
 
-![image](https://github.com/Dhanush12022004/Forward-kinematics-using-robot-analyzer/assets/128135558/d2e20116-749c-4829-80f4-08ee05973217)
+LINK 2:
 
-![image](https://github.com/Dhanush12022004/Forward-kinematics-using-robot-analyzer/assets/128135558/6d8a3501-166b-4251-beb4-c87829537248)
+![image](https://github.com/Dhanush12022004/Forward-kinematics-using-robot-analyzer/assets/128135558/54d46dd9-a779-4ade-993b-b83c220fe3d4)
+
+LINK 3:
+
+![image](https://github.com/Dhanush12022004/Forward-kinematics-using-robot-analyzer/assets/128135558/88517637-26c5-42f1-8a30-f4db42ef3a6d)
+
+LINK 4:
+![image](https://github.com/Dhanush12022004/Forward-kinematics-using-robot-analyzer/assets/128135558/44979920-0562-4aa6-9c16-d5431a9eadfd)
+
+LINK 5:
+
+![image](https://github.com/Dhanush12022004/Forward-kinematics-using-robot-analyzer/assets/128135558/f21dd892-d9d2-4048-a025-4c56f4437a26)
+
+LINK 6:
+
+![image](https://github.com/Dhanush12022004/Forward-kinematics-using-robot-analyzer/assets/128135558/2a04dc1d-2162-417c-b68c-27ad7a89356b)
+
+
+
 
 JOINTS:
 
-![image](https://github.com/Dhanush12022004/Forward-kinematics-using-robot-analyzer/assets/128135558/06cdc35b-c94a-4bd7-b4a9-4a986e5baafd)
-
-![image](https://github.com/Dhanush12022004/Forward-kinematics-using-robot-analyzer/assets/128135558/b5440487-2745-40d2-b1be-5a47668f39a3)
-
-![image](https://github.com/Dhanush12022004/Forward-kinematics-using-robot-analyzer/assets/128135558/efd43f54-4196-467e-88c6-41b7e1c45161)
-
-![image](https://github.com/Dhanush12022004/Forward-kinematics-using-robot-analyzer/assets/128135558/cea80cf2-9cc3-458c-b79f-7a4b8f1b9cd1)
 
  
  
@@ -93,3 +107,5 @@ JOINTS:
 
 
 ### RESULTS :  
+
+Therefore,to analyze the forward kinematics using DH paramerters for a 4 and 6 dof robot using roboanalyzer and polt the graph for link cordinates and joint angles is completed successfully.
