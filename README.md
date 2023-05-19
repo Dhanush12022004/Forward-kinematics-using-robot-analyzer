@@ -46,7 +46,9 @@ STEP 3:Select FKin in Analyses to perform Forward Kinematics.
 
 ![image](https://github.com/Dhanush12022004/Forward-kinematics-using-robot-analyzer/assets/128135558/341e1203-0e62-4f2c-a2ca-65456dbdb00b)
 
-STEP 4:
+STEP 4: Select Graph -> Select Links or Joints to plot the graph respectively
+
+![image](https://github.com/Dhanush12022004/Forward-kinematics-using-robot-analyzer/assets/128135558/f2f6619c-8f17-4c6f-9cb5-71da3bfa08e1)
 
 
 
