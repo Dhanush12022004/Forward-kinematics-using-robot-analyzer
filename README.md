@@ -42,8 +42,11 @@ Set DOF(Degree Of Freedom) as 6 and set the  DH parameters as in Table 1.
 
 ![image](https://github.com/Dhanush12022004/Forward-kinematics-using-robot-analyzer/assets/128135558/e5f037e9-2713-4ec9-8fbe-fed9a1be046f)
 
-STEP 3:
+STEP 3:Select FKin in Analyses to perform Forward Kinematics.
 
+![image](https://github.com/Dhanush12022004/Forward-kinematics-using-robot-analyzer/assets/128135558/341e1203-0e62-4f2c-a2ca-65456dbdb00b)
+
+STEP 4:
 
 
 
