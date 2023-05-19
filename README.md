@@ -78,6 +78,32 @@ LINK 6:
 
 JOINTS:
 
+JOINT 1:
+
+![image](https://github.com/Dhanush12022004/Forward-kinematics-using-robot-analyzer/assets/128135558/4381db62-0468-436f-956c-13f7937c0fe2)
+
+JOINT 2:
+
+![image](https://github.com/Dhanush12022004/Forward-kinematics-using-robot-analyzer/assets/128135558/594ba501-188d-45e3-a36c-47d2395be22e)
+
+JOINT 3:
+
+![image](https://github.com/Dhanush12022004/Forward-kinematics-using-robot-analyzer/assets/128135558/3b1fb111-02cd-408d-bea8-b0f42a49779a)
+
+JOINT 4:
+
+![image](https://github.com/Dhanush12022004/Forward-kinematics-using-robot-analyzer/assets/128135558/205ab18a-1f0b-45a9-a109-c39952c3cd75)
+
+JOINT 5:
+
+![image](https://github.com/Dhanush12022004/Forward-kinematics-using-robot-analyzer/assets/128135558/4fe7a78d-89c2-4bec-9014-ff9781b83843)
+
+JOINT 6:
+
+![image](https://github.com/Dhanush12022004/Forward-kinematics-using-robot-analyzer/assets/128135558/a7393654-c413-43fe-9925-f33a37cc6eb8)
+
+
+
 
  
  
