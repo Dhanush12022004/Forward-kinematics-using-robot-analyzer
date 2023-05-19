@@ -38,7 +38,12 @@ STEP 1: Open Robo Analyser.
 ![image](https://github.com/Dhanush12022004/Forward-kinematics-using-robot-analyzer/assets/128135558/c25a538d-b9e6-4a99-8c0a-9227107c2ce7)
 
 STEP 2:
-Set DOF(Degree Of Freedom) as 6. 
+Set DOF(Degree Of Freedom) as 6 and set the  DH parameters as in Table 1.
+
+![image](https://github.com/Dhanush12022004/Forward-kinematics-using-robot-analyzer/assets/128135558/e5f037e9-2713-4ec9-8fbe-fed9a1be046f)
+
+STEP 3:
+
 
 
 
