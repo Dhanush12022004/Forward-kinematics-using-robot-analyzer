@@ -47,12 +47,14 @@ ai for the link length. Once I’ve obtained them, I can just plug them in to th
  
  
  ### PLOT 
- 
+ LINKS:
  ![image](https://github.com/Dhanush12022004/Forward-kinematics-using-robot-analyzer/assets/128135558/882d9f93-98ab-438c-823f-ac1b326d8561)
 
 ![image](https://github.com/Dhanush12022004/Forward-kinematics-using-robot-analyzer/assets/128135558/d2e20116-749c-4829-80f4-08ee05973217)
 
 ![image](https://github.com/Dhanush12022004/Forward-kinematics-using-robot-analyzer/assets/128135558/6d8a3501-166b-4251-beb4-c87829537248)
+
+JOINTS:
 
 ![image](https://github.com/Dhanush12022004/Forward-kinematics-using-robot-analyzer/assets/128135558/06cdc35b-c94a-4bd7-b4a9-4a986e5baafd)
 
